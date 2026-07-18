@@ -1,0 +1,4 @@
+interface:
+  display_name: "TB-DOC-Master"
+  short_description: "根据采购文件协助制作软件、集成和军工涉密项目标书初稿。"
+  default_prompt: "Use $tb-doc-master to analyze procurement files and draft a complete bid proposal package."
